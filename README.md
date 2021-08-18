@@ -6,7 +6,7 @@
    <br>
 </p>
 <h1>JAVES 2.0</h1>
-<b>Javes 2.0 is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
+<b>Javes 2.0 is a telegram userbot that running in python3 + Telethon Born From Javes.</b>
 <br>
 <br>
 
